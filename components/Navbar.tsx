@@ -20,7 +20,7 @@ const Navbar: React.FC = () => {
     }`}>
       <div className="container mx-auto px-6 flex justify-between items-center">
         <a href="#" className="text-2xl font-display font-bold text-gradient">
-          NOVA
+          Amit
         </a>
 
         {/* Desktop Menu */}

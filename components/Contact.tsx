@@ -51,7 +51,7 @@ const Contact: React.FC = () => {
                 </div>
                 <div>
                   <p className="text-sm text-slate-500 font-medium">LinkedIn</p>
-                  <p className="text-lg text-slate-200 group-hover:text-primary-400 transition-colors duration-300">alex-rivera-pro</p>
+                  <p className="text-lg text-slate-200 group-hover:text-primary-400 transition-colors duration-300">Amit-Mishra</p>
                 </div>
               </a>
             </div>
@@ -61,11 +61,11 @@ const Contact: React.FC = () => {
             <div className="grid md:grid-cols-2 gap-6">
               <div className="space-y-2">
                 <label className="text-sm font-medium text-slate-400 ml-1">Name</label>
-                <input type="text" className="w-full bg-slate-900/50 border border-white/10 rounded-2xl py-3 px-5 focus:outline-none focus:border-primary-500 transition-colors text-white" placeholder="John Doe" />
+                <input type="text" className="w-full bg-slate-900/50 border border-white/10 rounded-2xl py-3 px-5 focus:outline-none focus:border-primary-500 transition-colors text-white" placeholder="Amit Mishra" />
               </div>
               <div className="space-y-2">
                 <label className="text-sm font-medium text-slate-400 ml-1">Email</label>
-                <input type="email" className="w-full bg-slate-900/50 border border-white/10 rounded-2xl py-3 px-5 focus:outline-none focus:border-primary-500 transition-colors text-white" placeholder="john@example.com" />
+                <input type="email" className="w-full bg-slate-900/50 border border-white/10 rounded-2xl py-3 px-5 focus:outline-none focus:border-primary-500 transition-colors text-white" placeholder="Amit@example.com" />
               </div>
             </div>
             <div className="space-y-2">

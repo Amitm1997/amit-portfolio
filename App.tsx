@@ -35,7 +35,7 @@ function App() {
       <footer className="py-12 border-t border-white/5 bg-slate-950">
         <div className="container mx-auto px-6 flex flex-col md:flex-row justify-between items-center gap-6">
           <p className="text-slate-500 text-sm">
-            © {new Date().getFullYear()} Nova Portfolio. Built with React & Gemini.
+            © {new Date().getFullYear()} Amit Mishra Portfolio. Built with React & Gemini.
           </p>
           <div className="flex gap-6 text-slate-500 text-sm">
             <a href="#" className="hover:text-white transition-colors">Privacy Policy</a>
